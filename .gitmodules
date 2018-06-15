@@ -1,0 +1,3 @@
+[submodule "juce_vector"]
+	path = juce_vector
+	url = https://github.com/lassandroan/juce_vector.git
